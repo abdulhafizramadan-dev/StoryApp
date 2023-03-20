@@ -1,0 +1,84 @@
+AuthViewModelTest
+- Test Case ketika login berhasil
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+- Test Case ketika register berhasil
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+- Test Case ketika login gagal
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+    - Memastikan message sesuai dengan yang diharapkan.
+
+- Test Case ketika register gagal
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+    - Memastikan message sesuai dengan yang diharapkan.
+
+- Ketika mendapatkan auth token berhasil
+    - Memastikan data tidak null.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+- Ketika menghapus auth token berhasil
+    - Memanggil method removeAuthToken pada viewmodel
+    - Memastikan method removeAuthToken pada AuthPreferences terpanggil
+
+- Ketika mengupdate auth token berhasil
+    - Memanggil method updateAuthToken pada viewmodel
+    - Memastikan method updateAuthToken pada AuthPreferences terpanggil
+
+
+MapsViewModelTest
+- Test Case ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan ukuran data sesuai dengan yang diharapkan.
+
+- Test Case ketika memuat data kosong
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Empty.
+
+- Test Case ketika gagal memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+
+MainViewModelTest
+- Test Case ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan ukuran data sesuai dengan yang diharapkan.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+
+DetailViewModelTest
+- Test Case ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+- Test Case ketika memuat data kosong
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Empty.
+
+- Test Case ketika gagal memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+
+AddNewStoryViewModelTest
+- Test Case ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+- Test Case ketika gagal memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+    - Memastikan data sesuai dengan yang diharapkan.
+

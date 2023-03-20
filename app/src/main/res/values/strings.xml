@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="logo_dicoding">Logo Dicoding</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="is_have_account">Belum punya akun?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+
+    <string name="dummy_description"><b>User</b> VectorDrawables are not supported. This library is designed for BitmapDrawables only. Other drawables will likely fail or cause high memory usage.</string>
+
+    <string name="empty_story">Tidak ada story yang ditemukan!</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="add_story">Add Story</string>
+    <string name="gallery">Galeri</string>
+    <string name="logout">Logout</string>
+    <string name="add_new_story">Tambah story baru</string>
+    <string name="validation_error_email">Email tidak boleh kosong!</string>
+    <string name="password_smaller_6">Panjang password minimal 6 character!</string>
+    <string name="validation_error_password">Password tidak boleh kosong</string>
+    <string name="email_not_valid">Format email tidak valid!</string>
+    <string name="validation_error_name">Nama tidak boleh kosong!</string>
+    <string name="logout_message">Apakah anda yakin ingin logout?</string>
+    <string name="yes">Ya</string>
+    <string name="flip_camera">Balik Kamera</string>
+    <string name="cancel">Batal</string>
+    <string name="image_empty">Gambar tidak boleh kosong!</string>
+    <string name="validation_error_description">Deskripsi tidak boleh kosong!</string>
+    <string name="capture_photo">Tangkap Gambar</string>
+    <string name="back">Kembali</string>
+    <string name="close_camera">Tutup Kamera</string>
+    <string name="retry">Coba Lagi</string>
+
+    <string name="is_include_user_location">Tambakan lokasi anda?</string>
+    <string name="snippet_map_format">Lat %s, Lon: %s</string>
+    <string name="maps_styles_not_found">Maps styles tidak dapat ditemukan!</string>
+    <string name="failed_load_maps_styles">Gagal meload map style!</string>
+    <string name="subtitle">Mencari inspirasi cerita yang menarik!</string>
+</resources>

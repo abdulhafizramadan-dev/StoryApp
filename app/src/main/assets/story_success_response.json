@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-meWj8BJDqn2doSZc",
+      "name": "androidku",
+      "description": "ok2",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669194263014_wDF-wg3n.jpg",
+      "createdAt": "2022-11-23T09:04:23.015Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-oUhdj3h-ZcD6A_Vd",
+      "name": "androidku",
+      "description": "ok",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669194163127_ZBufbNba.jpg",
+      "createdAt": "2022-11-23T09:02:43.127Z",
+      "lat": 37.422092,
+      "lon": -122.08392
+    },
+    {
+      "id": "story-pjH9uAWPiNZYczLi",
+      "name": "tata",
+      "description": "abcd123 aadh nak n\n\nadasdandka 12318914*&^ 5",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669193986843_eoonQD-q.jpg",
+      "createdAt": "2022-11-23T08:59:46.844Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-VNXFgutD8jDjCSdu",
+      "name": "tata",
+      "description": "abcd1234 tuut **71&^%^&&",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669193904062_UYvvoInn.jpg",
+      "createdAt": "2022-11-23T08:58:24.064Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-QY_cR8ltvkmQV3P8",
+      "name": "doneregister",
+      "description": "sadasdasdsad",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669192282542_UQdUKbL0.jpg",
+      "createdAt": "2022-11-23T08:31:22.543Z",
+      "lat": 37.422092,
+      "lon": -122.08392
+    },
+    {
+      "id": "story-IsUuC3PqU37ba9we",
+      "name": "doneregister",
+      "description": "asdasd",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669192140437_ULmi5v7V.jpg",
+      "createdAt": "2022-11-23T08:29:00.438Z",
+      "lat": 37.422092,
+      "lon": -122.08392
+    },
+    {
+      "id": "story-s2bIGVPjraUo0lPA",
+      "name": "doneregister",
+      "description": "asdasddddddddddd",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669192122299_kTvAcPpq.jpg",
+      "createdAt": "2022-11-23T08:28:42.301Z",
+      "lat": 37.422092,
+      "lon": -122.08392
+    },
+    {
+      "id": "story-o3pat_TkLUD6tM2u",
+      "name": "doneregister",
+      "description": "asdasdasd",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669192105284_JTpF4vr2.jpg",
+      "createdAt": "2022-11-23T08:28:25.286Z",
+      "lat": 37.422092,
+      "lon": -122.08392
+    },
+    {
+      "id": "story-bSKApyHXEut5T51y",
+      "name": "tata",
+      "description": "aaaa",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669191297071_dpwmQfw9.jpg",
+      "createdAt": "2022-11-23T08:14:57.073Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-tnrjARZw-4MWhGIL",
+      "name": "Eko Muhammad Rilo Pembudi",
+      "description": "skskkskskwk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1669190983165_aAuT0dHK.jpg",
+      "createdAt": "2022-11-23T08:09:43.167Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
